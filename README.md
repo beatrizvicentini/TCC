@@ -1,2 +1,4 @@
 # TCC
-Repositório dos códigos desenvolvidos durante as duas etapas (TGA e TGB) de desenvolvimento do Trabalho de Conclusão de Curso.
+
+Códigos referentes à construção e análise das redes dinâmicas originárias do conjunto de dados New York Bike Share desenvolvidos durante o Trabalho de Conclusão de Curso: Detecção de Comunidades em Redes Dinâmicas por meio de Algoritmo EM Variacional.
+
